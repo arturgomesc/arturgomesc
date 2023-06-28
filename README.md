@@ -1,4 +1,6 @@
-  ### Hello there 👋  Welcome to my profile!
+### Hello there 👋  Welcome to my profile!
 
-My name is Artur Gomes, I'm a software developer.
+- Currently working on Institute of Philosophy and Human Sciences from Federal University of Pará 💻
+- Learning Java ☕ with Spring 🌱
+- I love to read, gym and play videogames 📖🦾🎮
 
